@@ -1,0 +1,11 @@
+h1 {
+  font-family: serif;
+  font-size: 24px;
+  background-color: blue;
+}
+
+    .darkBg {background-color: cadetblue;}
+
+    <style type="text/css">
+   body { background: navy !important; } 
+</style>
