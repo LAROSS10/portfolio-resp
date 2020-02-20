@@ -1,10 +1,10 @@
 body {
-  background-image: url();
-  font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+  background-color: burlywood;
+  /* font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif; */
 }
 
 .navbar-brand {
-  background-color: #4aaaa5;
+  background-color: black;
   padding: 8px;
   margin-left: 5%;
   color: white;
@@ -21,15 +21,84 @@ body {
 
 }
 .container {
-  background-color: white;
+  background-image: url("/Images/spiration-light.png");
+  background-color: rgb(255, 255, 255);
   margin: 0 auto;
   
 }
 
 #aboutme {
-  color: #4aaaa5;
+  color: black;
+  font-family:'Source Sans Pro', serif;
 }
 
 #foot {
   color: white;
+}
+
+#pwCalcLink {
+  padding: 5px;
+  margin: 10px;
+ text-align: center;
+}
+
+#pwCalcImage {
+padding: 10px;
+margin:20px;
+border-style: solid;
+border-radius: 10px;
+border-width: 15px;
+border-color: black;
+}
+
+#spaceLaunchWatch{
+  padding: 5px;
+  margin: 10px;
+ text-align: center;
+}
+
+#spaceLaunchImage {
+  padding: 10px;
+  margin:20px;
+  border-style: solid;
+  border-radius: 10px;
+  border-width: 15px;
+  border-color: black;
+}
+
+
+
+.googleFont1 {
+  font-family: 'Source Sans Pro', serif;
+  font-size: 32px;
+  text-shadow: 4px 4px 4px #aaa;
+}
+
+.googleFont2 {
+  font-family: 'Open Sans Condensed', serif ;
+  font-size: 18px;
+  /* text-shadow: 4px 4px 4px #aaa; */
+}
+
+.nav-link {
+  font-family: 'Open Sans Condensed', serif ;
+}
+
+table {
+  margin: 30px;
+  margin-right: 0;
+  padding: 10px;
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 50%;
+  font-size:16px;
+  
+}
+
+td,tr { 
+  border: 1px solid #dddddd;
+  text-align: center;
+  padding: 10px;
+  font-size:20px;
+  background-color: burlywood;
 }
