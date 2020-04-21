@@ -46,10 +46,10 @@ body {
 #pwCalcImage {
 padding: 10px;
 margin:20px;
-border-style: solid;
+/* border-style: solid;
 border-radius: 10px;
 border-width: 15px;
-border-color: black;
+border-color: black; */
 }
 
 #spaceLaunchWatch{
@@ -60,12 +60,12 @@ border-color: black;
 
 #spaceLaunchImage {
   padding: 10px;
-  margin:20px;
-  border-style: solid;
+  margin:15px;
+  /* border-style: solid;
   border-radius: 10px;
   border-width: 15px;
   border-color: black;
-}
+} */
 
 
 
